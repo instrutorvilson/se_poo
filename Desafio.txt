@@ -6,3 +6,10 @@ Criar o cadastro de locais com os seguintes atributos
   -> celular do responsável
   -> email do responsável
 
+Em sala de aula foi desenvolvido o cadastro de contato e o cadastro de locais. Nesta atividade deve ser desenvolvido o cadastro de compromissos. Na tela de cadastro de compromissos o usuário poderá escolher qual o contato, qual o local e informar a data, hora e uma observação sobre o compromisso, Por exemplo: 
+
+seleciona o contato Paulo;
+seleciona o local, clube XV;
+data xx/xx
+Jogo de bola da patota.
+Entregar na tarefa o link do github onde o projeto está sendo versionado.
